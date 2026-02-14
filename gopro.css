@@ -1,0 +1,263 @@
+ p {
+  font-family: arial;
+    }
+
+
+
+    .pro-title {
+        font-family: arial;
+        font-size: 18px;
+        margin-bottom: 0px;
+         margin-left: 10;
+        margin-right: 80;
+
+    }
+    
+    .active-title {
+        color: gray;
+        font-size: 14px;
+        font-family: arial;
+        margin-top: 1px;
+         margin-left: 10;
+        margin-right: 80;
+
+    }
+
+    .chat-title {
+        background-color: rgb(132, 147, 74);
+        width: 100px;
+        height: 34px;
+        color: white;
+        border: none;
+        border-radius: 20px;
+         margin-left: 10;
+        margin-right: 80;
+        cursor: pointer;
+        transition: opacity 0.4s;}
+
+        .chat-title:hover {
+            opacity: 0.9;
+
+        }
+
+        .chat-title:active {
+            opacity: 0.9;
+        }
+
+
+
+        .view-title {
+            background-color: rgb(90, 150, 144);
+        width: 100px;
+        height: 34px;
+        color: white;
+        border: none;
+        border-radius: 20px;
+        cursor: pointer;
+        margin-bottom: 0;
+         margin-left: 10;
+        margin-right: 80
+    }
+    
+    .product-title {
+        margin-top: 70px;
+        font-size: 20;
+        font-weight: 500px;
+        background-color: rgba(0, 0, 0, 0.02);
+        background-clip: border-box;
+        background-size: auto;
+        background-origin: border-box;
+        background-repeat: repeat;
+        background-position: 0%;
+        padding-left: 14;
+        padding-bottom: 14px
+        height: 21;
+        line-height: 2.5;
+    }
+
+
+    .cate-title {
+        font-size: 14px;
+        color: gray;
+        margin-left: 10;
+        margin-right: 110px;
+        margin-bottom: 0px;
+
+
+    }
+
+    .she-title {
+        color: rgb(19, 171, 231);
+        font-size: 14;
+        cursor: pointer;
+    }
+
+    .cam-title {
+        color: rgb(19, 171, 231);
+        font-size: 14;
+        cursor: pointer;
+    }
+
+    .camera-title {
+        color: rgb(19, 171, 231);
+        font-size: 14;
+        cursor: pointer;
+
+
+    }
+
+    .batt-title {
+         color: rgb(19, 171, 231);
+        font-size: 14;
+        cursor: pointer;
+        
+    }
+
+    .ret-title {
+        margin-top: 40;
+        margin-bottom: 0px;
+    }
+
+    .cat-title {
+         font-size: 14px;
+        color: gray;
+        margin-left: 10;
+        margin-right: 132px;
+        
+
+    }
+
+    .oi-title {
+        font-size: 14;
+        margin-left: 22;
+    }
+
+    .brand-title {
+        margin-top: 40;
+    }
+
+    .bra-title {
+        font-size: 14px;
+        color: gray;
+        margin-left: 10;
+        margin-right: 129px;
+
+    }
+
+    .gopro-title {
+        font-size: 14;
+        margin-left: 20;
+        color: rgb(19, 171, 231);
+        cursor: pointer;
+    }
+
+    .war-title {
+        font-size: 14px;
+        color: gray;
+        margin-left: 10;
+        margin-right: 77px;
+
+    }
+
+    .supp-title {
+        font-size: 14;
+        margin-left: -31;
+
+    }
+
+    .batte-title {
+        font-size: 14px;
+        color: gray;
+        margin-left: 10;
+        margin-right: 55px;
+    }
+
+    .numb-title {
+          font-size: 14;
+        margin-left: 10px;
+
+    }
+
+    .aver-title {
+        font-size: 14px;
+        color: gray;
+        margin-left: 10;
+        margin-right: 42px
+
+
+
+    }
+
+    .min-title {
+         font-size: 14;
+        margin-left: -61;
+
+    }
+
+    .moe-title {
+         font-size: 14px;
+        color: gray;
+        margin-left: 10;
+        margin-right: 97px;
+
+    }
+
+    .produc-title {
+          margin-top: 70px;
+        font-size: 20;
+        font-weight: 500px;
+        background-color: rgba(0, 0, 0, 0.02);
+        background-clip: border-box;
+        background-size: auto;
+        background-origin: border-box;
+        background-repeat: repeat;
+        background-position: 0%;
+        padding-left: 14;
+        padding-bottom: 14px
+        height: 21;
+        line-height: 2.5;
+
+    }
+
+
+
+    .quez-title {
+         font-size: 14;
+        margin-left: -6;
+
+    }
+
+     .our-title {
+         margin-left: 10;
+        margin-right: 80px;
+        font-size: 14px;
+        margin-bottom: 0px;
+     }
+
+     .its-title {
+          margin-left: 10;
+        margin-right: 80;
+        font-size: 14px;
+        margin-bottom: 0px;
+        margin-top: 20;
+        font-family: arial;
+     }
+
+     .drama-title {
+           margin-left: 10;
+        margin-right: 80;
+        font-size: 14px;
+        margin-bottom: 0px;
+        margin-top: 20;
+
+     }
+
+     .omg-title {
+         margin-left: 10;
+        margin-right: 80;
+        font-size: 14px;
+        margin-bottom: 0px;
+        margin-top: 20;
+        font-family: arial;
+        
+     }
